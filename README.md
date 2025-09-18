@@ -20,7 +20,7 @@ const skills = {
 };
 ```
 
-## 📊 GitHub Stats
+<!--  ## 📊 GitHub Stats 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaldeAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -36,7 +36,7 @@ const skills = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaldeAl&theme=tokyo-night&hide_border=true" />
 </div>
-
+-->
 ## 🛠️ Stack Technique
 
 <div align="center">
