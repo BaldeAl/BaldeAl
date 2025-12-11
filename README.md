@@ -13,7 +13,7 @@
 
 ```javascript
 const skills = {
-    backend: ["PHP/Laravel", "C#/.NET", "Java", "Python", "Node.js"],
+    backend: ["PHP/Laravel", "Sympfony", "C#/.NET", "Java", "Python", "Node.js"],
     frontend: ["React", "Vue.js", "TypeScript", "TailwindCSS"],
     databases: ["MySQL", "MongoDB", "PostgreSQL"],
     tools: ["Git", "Docker", "Jira", "Agile/Scrum"]
@@ -43,6 +43,7 @@ const skills = {
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-FFFFFF?style=for-the-badge&logo=symfony&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,7 +68,7 @@ const skills = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alseny-cv.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alseny-balde.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/als%C3%A9ny-balde-a997641b1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alseinybalde1@gmail.com)
 
