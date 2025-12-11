@@ -8,7 +8,7 @@
 
 ## 🚀 En Bref
 
-**Développeur Full-Stack Bac+5** | **Expert en Développement Informatique (RNCP 7)**  
+**Développeur Full-Stack Bac+5** | **Développement Informatique **  
 🚀 **En recherche d'opportunités**
 
 ```javascript
