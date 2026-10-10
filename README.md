@@ -1,86 +1,63 @@
-# 👋 Hey! Je suis **Alsény Baldé**
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Développeur+Full-Stack+Junior;)
+
+# Alsény Baldé
+
+### Data, Business Intelligence & Développement full-stack
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Power+BI+%C2%B7+SQL+%C2%B7+Python;Laravel+%C2%B7+Symfony+%C2%B7+React+%C2%B7+Next.js;Alternant+chez+SNCF+R%C3%A9seau+%C2%B7+MSc+Data+%26+IA+%C3%A0+l%27INSEEC+Paris)](https://alseny-balde.com)
 
 </div>
 
-## 🚀 En Bref
+<br>
 
-**Développeur Full-Stack Bac+5** | **Développement Informatique **  
-🚀 **En recherche d'opportunités**
+## À propos
 
-```javascript
-const skills = {
-    backend: ["PHP/Laravel", "Sympfony", "C#/.NET", "Java", "Python", "Node.js"],
-    frontend: ["React", "Vue.js", "TypeScript", "TailwindCSS"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    tools: ["Git", "Docker", "Jira", "Agile/Scrum"]
-};
-```
+Je suis développeur de formation (Bac+5 en développement informatique, en alternance) et je me spécialise aujourd'hui en data et en intelligence artificielle : je prépare un MSc Data & IA à l'INSEEC Paris, en alternance chez SNCF Réseau.
 
-<!--  ## 📊 GitHub Stats 
+Ce qui m'intéresse, c'est le chemin complet d'une donnée : la récupérer, la structurer, la rendre lisible dans un tableau de bord, et la mettre à disposition à travers une application ou une API. Je peux donc intervenir aussi bien sur un modèle de données que sur une interface.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaldeAl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaldeAl&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+Je suis disponible pour des missions de développement, du conseil ou des projets innovants.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaldeAl&theme=tokyonight" alt="Streak Stats"/>
-</div>
+<br>
 
-## 🔥 Activité & Contributions
+## Compétences
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaldeAl&theme=tokyo-night&hide_border=true" />
-</div>
--->
-## 🛠️ Stack Technique
+<table>
+  <tr>
+    <td><b>Data & BI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=powerbi,py,mysql,postgres,mongodb" alt="Data et BI" /> &nbsp; Power Query
+    </td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,laravel,symfony,java,spring,nodejs,cs,dotnet" alt="Back-end" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind" alt="Front-end" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Outils</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,docker" alt="Outils" /> &nbsp; Jira · Agile/Scrum · gestion de projets SI
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-FFFFFF?style=for-the-badge&logo=symfony&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br>
 
 
-</div>
-
-## 🎯 Highlights
-
-🎓 **Bac+5** Expert en Développement Informatique  
-💼 **2+ ans** d'expérience en entreprise  
-📦 **40+ repositories** publics  
-🔧 **Architecture** modulaire & API REST  
-📊 **BI & Analytics** avec Power BI  
-🤝 **Agile/Scrum** pratiqué en équipe  
-
-## 📫 Contact
+## Me contacter
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alseny-balde.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/als%C3%A9ny-balde-a997641b1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alseinybalde1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alseny--balde.com-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://alseny-balde.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alsény_Baldé-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/als%C3%A9ny-balde-a997641b1)
+[![Email](https://img.shields.io/badge/Email-Me_écrire-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alseinybalde1@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=BaldeAl&color=brightgreen&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/BaldeAl?style=social)](https://github.com/BaldeAl)
-  
-  💡 *"Explore my 40+ repos below!"* 
-  
 </div>
